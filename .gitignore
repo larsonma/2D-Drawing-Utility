@@ -1,0 +1,16 @@
+bin/*
+build/*
+.vscode/
+turnIn/
+
+#files being edited
+*~
+
+# make and build files
+*.lst
+*.o
+*.eep
+*.lss
+*.map
+*.sy
+*.d

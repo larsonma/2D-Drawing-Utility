@@ -1,0 +1,29 @@
+Begin Image
+Begin Shapes
+Begin Line
+Begin Line Properties
+	Begin Verticies
+		v1: 0,0
+		v2: 700,500
+	End Verticies
+End Line Properties
+Begin Shape Properties
+	Color: 9838230
+	Location: 0,0
+End Shape Properties
+End Line
+Begin Triangle
+Begin Triangle Properties
+	Begin Verticies
+		v1: 100,100
+		v2: 600,200
+		v3: 350,350
+	End Verticies
+End Triangle Properties
+Begin Shape Properties
+	Color: 13158440
+	Location: 100,100
+End Shape Properties
+End Triangle
+End Shapes
+End Image

@@ -1,0 +1,104 @@
+Begin Image
+Begin Shapes
+Begin Line
+Begin Line Properties
+	Begin Verticies
+		v1: 5,5
+		v2: 10,10
+	End Verticies
+End Line Properties
+Begin Shape Properties
+	Color: 16777215
+	Location: 5,5
+End Shape Properties
+End Line
+Begin Line
+Begin Line Properties
+	Begin Verticies
+		v1: 0,0
+		v2: 30,80
+	End Verticies
+End Line Properties
+Begin Shape Properties
+	Color: 9838230
+	Location: 0,0
+End Shape Properties
+End Line
+Begin Line
+Begin Line Properties
+	Begin Verticies
+		v1: 5,5
+		v2: 10,10
+	End Verticies
+End Line Properties
+Begin Shape Properties
+	Color: 16777215
+	Location: 5,5
+End Shape Properties
+End Line
+Begin Line
+Begin Line Properties
+	Begin Verticies
+		v1: 50,60
+		v2: 70,80
+	End Verticies
+End Line Properties
+Begin Shape Properties
+	Color: 16777215
+	Location: 50,60
+End Shape Properties
+End Line
+Begin Triangle
+Begin Triangle Properties
+	Begin Verticies
+		v1: 100,100
+		v2: 500,200
+		v3: 150,150
+	End Verticies
+End Triangle Properties
+Begin Shape Properties
+	Color: 16777215
+	Location: 100,100
+End Shape Properties
+End Triangle
+Begin Triangle
+Begin Triangle Properties
+	Begin Verticies
+		v1: 100,100
+		v2: 600,200
+		v3: 350,350
+	End Verticies
+End Triangle Properties
+Begin Shape Properties
+	Color: 13158440
+	Location: 100,100
+End Shape Properties
+End Triangle
+Begin Triangle
+Begin Triangle Properties
+	Begin Verticies
+		v1: 0,0
+		v2: 60,100
+		v3: 300,150
+	End Verticies
+End Triangle Properties
+Begin Shape Properties
+	Color: 5242960
+	Location: 0,0
+End Shape Properties
+End Triangle
+Begin Triangle
+Begin Triangle Properties
+	Begin Verticies
+		v1: 5,10
+		v2: 700,75
+		v3: 245,230
+	End Verticies
+End Triangle Properties
+Begin Shape Properties
+	Color: 16777215
+	Location: 5,10
+End Shape Properties
+End Triangle
+End Shapes
+End Image
